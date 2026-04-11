@@ -1,5 +1,15 @@
 # Dark Pattern Auditor
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://www.perplexity.ai/computer/a/dark-pattern-auditor-demo-LkIJuk4VRgW_S.YEwbJtVg)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+[![Perplexity](https://img.shields.io/badge/Perplexity-sonar--reasoning--pro-20B2AA?style=for-the-badge)](https://www.perplexity.ai)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+> **[▶ Try the live demo](https://www.perplexity.ai/computer/a/dark-pattern-auditor-demo-LkIJuk4VRgW_S.YEwbJtVg)** — no setup required.
+
+---
+
 A full-stack legal audit tool that navigates websites with real browser automation, classifies dark patterns against live FTC and EU statutes using AI, and surfaces real enforcement precedents — all in a professional report UI.
 
 ## What It Does
